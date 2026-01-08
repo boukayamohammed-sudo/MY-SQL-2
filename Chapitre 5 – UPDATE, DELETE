@@ -1,0 +1,6 @@
+UPDATE Article
+SET titre = 'Article mis à jour'
+WHERE id_utilisateur = 1;
+
+DELETE FROM Commentaire
+WHERE id = 2;
