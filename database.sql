@@ -1,5 +1,5 @@
 CREATE DATABASE code_db;
-USE cide_db;
+USE code_db;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
