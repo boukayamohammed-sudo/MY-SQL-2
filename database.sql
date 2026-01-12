@@ -1,5 +1,5 @@
-CREATE DATABASE blog_system;
-USE blog_system;
+CREATE DATABASE code_db;
+USE cide_db;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
