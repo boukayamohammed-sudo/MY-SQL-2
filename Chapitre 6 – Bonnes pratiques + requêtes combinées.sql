@@ -12,5 +12,5 @@ WHERE id = 1;
 -- Suppression d’un commentaire
 DELETE FROM Commentaire WHERE id = 3;
 
-COMMIT; -- ou ROLLBACK en cas d’erreur
+COMMIT; -- ou ROLLBACK en cas d’ereur
     
