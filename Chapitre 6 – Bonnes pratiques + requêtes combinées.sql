@@ -13,3 +13,4 @@ WHERE id = 1;
 DELETE FROM Commentaire WHERE id = 3;
 
 COMMIT; -- ou ROLLBACK en cas d’erreur
+    
